@@ -1,4 +1,5 @@
 <img src="images/io2012_logo.png"> 
+
 # HTML5 Slide Template
 
 ## Configuring the slides
